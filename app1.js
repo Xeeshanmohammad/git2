@@ -1,6 +1,6 @@
-let number = [1,2,3,4]
+let findOne = [2,34,5,6]
 function double(num){
-return num*2
+return num*3
 }
-const output = number.map(double)
+const output = findOne.map(double)
 console.log(output);
